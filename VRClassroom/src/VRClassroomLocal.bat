@@ -1,0 +1,1 @@
+"C:\UnrealEngine-4.25.3-release\Engine\Binaries\Win64\UE4Editor.exe" "%CD%\VRClassroom.uproject" /Game/OWS/ThirdPersonBP/Maps/Login -game -ResX=1280 -ResY=600 -WinX=20 -WinY=20 -nosteam -WINDOWED -log

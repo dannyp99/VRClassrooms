@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+  <appSettings>
+    <add key="PathToDedicatedServer" value="C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\Win64\UE4Editor.exe"/>
+    <add key="ServerArguments" value="&quot;C:\OWS\OpenWorldStarterPlugin\OpenWorldStarter.uproject&quot; {0}?listen -server -log -nosteam -messaging -port={1}"/>
+    <add key="APIKey" value="56FB0902-6FE7-4BFE-B680-E3C8E497F016"/>
+    <add key="ListenOn" value="http://localhost:8181/RPGWorldServer"/>
+    <add key="APIPath" value="http://rpgwebapi.sabredartstudios.com"/>
+  </appSettings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+    </startup>
+</configuration>
